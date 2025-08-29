@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://allaboutlifehacks.com/sitemap.xml
+Sitemap: https://allaboutlifehacks.com/sitemap_index.xml
